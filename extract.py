@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-# Liste des pays à extraire (tu peux changer)
+# Liste des pays à extraire
 countries = ["FR", "DE", "IT"]
 url = "https://api.openaq.org/v3/locations"
 
